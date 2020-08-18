@@ -9,6 +9,11 @@ používateľom, triedy reprezentujúce udalosti v hre (napr. urychlovače/spoma
 nákaza nových ľudí, úmrtie).
 
 Podľa jednoduchého modelu SIR existujú tri skupiny ľudí:
+
+
+
+
+
   ● (S)usceptible (vnímaví): skupina ľudí, ktorých môže nakaziť infekčný človek. Títo sa
         potom stanú infekční,
         
