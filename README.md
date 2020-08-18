@@ -13,5 +13,5 @@ Podľa jednoduchého modelu SIR existujú tri skupiny ľudí:
         potom stanú infekční,
   ● (I)nfectious (infekční): skupina ľudí, ktorí boli infikovaní a teda môžu šíriť nákazu,
   ● (R)ecovered (imúnni): skupina ľudí, ktorí si vytvorili imunitu (sú očkovaný, prekonali nákazu
-            a tým pádom sa stali imúnni alebo zomreli) a teda nemôžu byť infikovaný ani infikovať ďalších
+            a tým pádom sa stali imúnni alebo zomreli) a teda nemôžu byť infikovaný ani infikovať ďalších.
           
